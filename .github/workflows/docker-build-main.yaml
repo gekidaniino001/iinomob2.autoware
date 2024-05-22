@@ -9,7 +9,7 @@ name: docker-build-main
 on:
   push:
     tags:
-      - adkit-v*.*.*
+      - openadkit-v*.*.*
     branches:
       - main
   schedule:
