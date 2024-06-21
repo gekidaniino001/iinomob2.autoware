@@ -5,8 +5,8 @@ repositories:
     version: iino/develop
   core/autoware_adapi_msgs:
     type: git
-    url: https://github.com/autowarefoundation/autoware_adapi_msgs.git
-    version: 78762f024bc26d7f1998c3f3468a2dd5c59504fa
+    url: https://github.com/gekidaniino001/autoware_adapi_msgs.git
+    version: iino/develop
   core/autoware_internal_msgs:
     type: git
     url: https://github.com/autowarefoundation/autoware_internal_msgs.git
