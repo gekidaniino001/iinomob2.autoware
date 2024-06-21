@@ -37,19 +37,19 @@ repositories:
     version: iino/develop
   universe/external/morai_msgs:
     type: git
-    url: https://github.com/MORAI-Autonomous/MORAI-ROS2_morai_msgs.git
+    url: https://github.com/gekidaniino001/MORAI-ROS2_morai_msgs.git
     version: iino/develop
   universe/external/muSSP:
     type: git
-    url: https://github.com/tier4/muSSP.git
+    url: https://github.com/gekidaniino001/muSSP.git
     version: iino/develop
   universe/external/ndt_omp:
     type: git
-    url: https://github.com/tier4/ndt_omp.git
+    url: https://github.com/gekidaniino001/ndt_omp.git
     version: iino/develop
   universe/external/pointcloud_to_laserscan:
     type: git
-    url: https://github.com/tier4/pointcloud_to_laserscan.git
+    url: https://github.com/gekidaniino001/pointcloud_to_laserscan.git
     version: iino/develop
   universe/external/eagleye:
     type: git
