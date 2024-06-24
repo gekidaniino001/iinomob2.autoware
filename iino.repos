@@ -19,6 +19,10 @@ repositories:
     type: git
     url: https://github.com/gekidaniino001/rviz_2d_overlay_plugins.git
     version: iino/develop
+  iino/external/mqtt_bridge:
+    type: git
+    url: https://github.com/gekidaniino001/mqtt_bridge.git
+    version: iino/develop
   iino/external/joystick_drivers:
     type: git
     url: https://github.com/gekidaniino001/joystick_drivers.git
@@ -27,3 +31,4 @@ repositories:
     type: git
     url: https://github.com/gekidaniino001/aip_launcher.git
     version: iino/develop
+  
