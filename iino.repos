@@ -1,5 +1,5 @@
 repositories:
-  iino:
+  iino.universe:
     type: git
     url: https://github.com/gekidaniino001/iino.universe.git
     version: iino/develop
