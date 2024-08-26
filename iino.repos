@@ -7,14 +7,6 @@ repositories:
     type: git
     url: https://github.com/gekidaniino001/hesai_pandar.git
     version: iino/develop
-  sensor_component/external/velodyne_vls:
-    type: git
-    url: https://github.com/tier4/velodyne_vls.git
-    version: tier4/universe
-  param/autoware_individual_params:
-    type: git
-    url: https://github.com/gekidaniino001/autoware_individual_params.git
-    version: iino/develop
   external/lane_width_calculator:
     type: git
     url: https://github.com/gekidaniino001/lane_width_calculator.git

@@ -7,10 +7,6 @@ repositories:
     type: git
     url: https://github.com/gekidaniino001/autoware_adapi_msgs.git
     version: iino/develop
-  core/autoware_internal_msgs:
-    type: git
-    url: https://github.com/gekidaniino001/autoware_internal_msgs.git
-    version: iino/develop
   core/autoware_common:
     type: git
     url: https://github.com/gekidaniino001/autoware_common.git
@@ -51,26 +47,6 @@ repositories:
     type: git
     url: https://github.com/gekidaniino001/pointcloud_to_laserscan.git
     version: iino/develop
-  universe/external/eagleye:
-    type: git
-    url: https://github.com/gekidaniino001/eagleye.git
-    version: iino/develop
-  universe/external/rtklib_ros_bridge:
-    type: git
-    url: https://github.com/gekidaniino001/rtklib_ros_bridge.git
-    version: iino/develop
-  universe/external/llh_converter:
-    type: git
-    url: https://github.com/gekidaniino001/llh_converter.git
-    version: iino/develop
-  universe/external/ament_cmake:
-    type: git
-    url: https://github.com/gekidaniino001/ament_cmake.git
-    version: iino/develop
-  universe/external/glog:
-    type: git
-    url: https://github.com/gekidaniino001/glog.git
-    version: iino/develop
   launcher/autoware_launch:
     type: git
     url: https://github.com/gekidaniino001/autoware_launch.git
@@ -83,25 +59,17 @@ repositories:
     type: git
     url: https://github.com/gekidaniino001/tamagawa_imu_driver.git
     version: iino/develop
-  sensor_component/external/nebula:
+  sensor_component/external/velodyne_vls:
     type: git
-    url: https://github.com/gekidaniino001/nebula.git
-    version: iino/develop
-  sensor_component/external/transport_drivers:
-    type: git
-    url: https://github.com/gekidaniino001/transport_drivers.git
+    url: https://github.com/gekidaniino001/awf_velodyne.git
     version: iino/develop
   sensor_kit/sample_sensor_kit_launch:
     type: git
     url: https://github.com/gekidaniino001/sample_sensor_kit_launch.git
-    version: iino/velodyne
+    version: iino/develop
   sensor_kit/external/awsim_sensor_kit_launch:
     type: git
     url: https://github.com/gekidaniino001/awsim_sensor_kit_launch.git
-    version: iino/develop
-  sensor_kit/awsim_labs_sensor_kit_launch:
-    type: git
-    url: https://github.com/gekidaniino001/awsim_labs_sensor_kit_launch.git
     version: iino/develop
   vehicle/sample_vehicle_launch:
     type: git
