@@ -2,95 +2,95 @@ repositories:
   core/autoware_msgs:
     type: git
     url: https://github.com/gekidaniino001/autoware_msgs.git
-    version: iino/develop
+    version: iino/2024.05
   core/autoware_adapi_msgs:
     type: git
     url: https://github.com/gekidaniino001/autoware_adapi_msgs.git
-    version: iino/develop
+    version: iino/2024.05
   core/autoware_internal_msgs:
     type: git
     url: https://github.com/gekidaniino001/autoware_internal_msgs.git
-    version: iino/develop
+    version: iino/2024.05
   core/autoware_common:
     type: git
     url: https://github.com/gekidaniino001/autoware_common.git
-    version: iino/develop
+    version: iino/2024.05
   core/autoware.core:
     type: git
     url: https://github.com/gekidaniino001/autoware.core.git
-    version: iino/develop
+    version: iino/2024.05
   core/external/autoware_auto_msgs:
     type: git
     url: https://github.com/gekidaniino001/autoware_auto_msgs.git
-    version: iino/develop
+    version: iino/2024.05
   universe/autoware.universe:
     type: git
     url: https://github.com/gekidaniino001/autoware.universe.git
-    version: iino/develop
+    version: iino/2024.05
   universe/external/tier4_ad_api_adaptor:
     type: git
     url: https://github.com/gekidaniino001/tier4_ad_api_adaptor.git
-    version: iino/develop
+    version: iino/2024.05
   universe/external/tier4_autoware_msgs:
     type: git
     url: https://github.com/gekidaniino001/tier4_autoware_msgs.git
-    version: iino/develop
+    version: iino/2024.05
   universe/external/morai_msgs:
     type: git
     url: https://github.com/gekidaniino001/MORAI-ROS2_morai_msgs.git
-    version: iino/develop
+    version: iino/2024.05
   universe/external/muSSP:
     type: git
     url: https://github.com/gekidaniino001/muSSP.git
-    version: iino/develop
+    version: iino/2024.05
   universe/external/ndt_omp:
     type: git
     url: https://github.com/gekidaniino001/ndt_omp.git
-    version: iino/develop
+    version: iino/2024.05
   universe/external/pointcloud_to_laserscan:
     type: git
     url: https://github.com/gekidaniino001/pointcloud_to_laserscan.git
-    version: iino/develop
+    version: iino/2024.05
   universe/external/eagleye:
     type: git
     url: https://github.com/gekidaniino001/eagleye.git
-    version: iino/develop
+    version: iino/2024.05
   universe/external/rtklib_ros_bridge:
     type: git
     url: https://github.com/gekidaniino001/rtklib_ros_bridge.git
-    version: iino/develop
+    version: iino/2024.05
   universe/external/llh_converter:
     type: git
     url: https://github.com/gekidaniino001/llh_converter.git
-    version: iino/develop
+    version: iino/2024.05
   universe/external/ament_cmake:
     type: git
     url: https://github.com/gekidaniino001/ament_cmake.git
-    version: iino/develop
+    version: iino/2024.05
   universe/external/glog:
     type: git
     url: https://github.com/gekidaniino001/glog.git
-    version: iino/develop
+    version: iino/2024.05
   launcher/autoware_launch:
     type: git
     url: https://github.com/gekidaniino001/autoware_launch.git
-    version: iino/develop
+    version: iino/2024.05
   sensor_component/external/sensor_component_description:
     type: git
     url: https://github.com/gekidaniino001/sensor_component_description.git
-    version: iino/develop
+    version: iino/2024.05
   sensor_component/external/tamagawa_imu_driver:
     type: git
     url: https://github.com/gekidaniino001/tamagawa_imu_driver.git
-    version: iino/develop
+    version: iino/2024.05
   sensor_component/external/nebula:
     type: git
     url: https://github.com/gekidaniino001/nebula.git
-    version: iino/develop
+    version: iino/2024.05
   sensor_component/external/transport_drivers:
     type: git
     url: https://github.com/gekidaniino001/transport_drivers.git
-    version: iino/develop
+    version: iino/2024.05
   sensor_kit/sample_sensor_kit_launch:
     type: git
     url: https://github.com/gekidaniino001/sample_sensor_kit_launch.git
@@ -98,20 +98,20 @@ repositories:
   sensor_kit/external/awsim_sensor_kit_launch:
     type: git
     url: https://github.com/gekidaniino001/awsim_sensor_kit_launch.git
-    version: iino/develop
+    version: iino/2024.05
   sensor_kit/awsim_labs_sensor_kit_launch:
     type: git
     url: https://github.com/gekidaniino001/awsim_labs_sensor_kit_launch.git
-    version: iino/develop
+    version: iino/2024.05
   vehicle/sample_vehicle_launch:
     type: git
     url: https://github.com/gekidaniino001/sample_vehicle_launch.git
-    version: iino/develop
+    version: iino/2024.05
   vehicle/external/pacmod_interface:
     type: git
     url: https://github.com/gekidaniino001/pacmod_interface.git
-    version: iino/develop
+    version: iino/2024.05
   param/autoware_individual_params:
     type: git
     url: https://github.com/gekidaniino001/autoware_individual_params.git
-    version: iino/develop
+    version: iino/2024.05

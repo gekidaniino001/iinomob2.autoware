@@ -2,11 +2,11 @@ repositories:
   iino.universe:
     type: git
     url: https://github.com/gekidaniino001/iino.universe.git
-    version: iino/develop
+    version: iino/2024.05
   sensor_component/external/hesai_pandar:
     type: git
     url: https://github.com/gekidaniino001/hesai_pandar.git
-    version: iino/develop
+    version: iino/2024.05
   sensor_component/external/velodyne_vls:
     type: git
     url: https://github.com/tier4/velodyne_vls.git
@@ -14,29 +14,29 @@ repositories:
   param/autoware_individual_params:
     type: git
     url: https://github.com/gekidaniino001/autoware_individual_params.git
-    version: iino/develop
+    version: iino/2024.05
   external/lane_width_calculator:
     type: git
     url: https://github.com/gekidaniino001/lane_width_calculator.git
-    version: iino/develop
+    version: iino/2024.05
   external/rviz_2d_overlay_plugins:
     type: git
     url: https://github.com/gekidaniino001/rviz_2d_overlay_plugins.git
-    version: iino/develop
+    version: iino/2024.05
   external/mqtt_bridge:
     type: git
     url: https://github.com/gekidaniino001/mqtt_bridge.git
-    version: iino/develop
+    version: iino/2024.05
   external/joystick_drivers:
     type: git
     url: https://github.com/gekidaniino001/joystick_drivers.git
-    version: iino/develop
+    version: iino/2024.05
   external/rosbag2:
     type: git
     url: https://github.com/gekidaniino001/rosbag2.git
-    version: iino/develop
+    version: iino/2024.05
   sensor_kit/aip_launcher:
     type: git
     url: https://github.com/gekidaniino001/aip_launcher.git
-    version: iino/develop
+    version: iino/2024.05
   
