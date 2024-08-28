@@ -27,8 +27,4 @@ repositories:
     type: git
     url: https://github.com/gekidaniino001/rosbag2.git
     version: iino/develop
-  sensor_kit/aip_launcher:
-    type: git
-    url: https://github.com/gekidaniino001/aip_launcher.git
-    version: iino/develop
   
