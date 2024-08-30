@@ -23,8 +23,4 @@ repositories:
     type: git
     url: https://github.com/gekidaniino001/joystick_drivers.git
     version: iino/develop
-  external/rosbag2:
-    type: git
-    url: https://github.com/gekidaniino001/rosbag2.git
-    version: iino/develop
   
