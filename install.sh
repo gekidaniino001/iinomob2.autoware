@@ -24,5 +24,5 @@ pushd src/iino.universe/tool
 ./inst_wx.py
 popd
 
-mkdir -p src/iino.universe/data_bin
-cp -r ~/enkaku src/iino.universe/data_bin/
+mkdir -p src/iino.scenario/data_bin
+cp -r ~/enkaku src/iino.scenario/data_bin/
