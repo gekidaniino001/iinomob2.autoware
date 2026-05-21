@@ -7,6 +7,11 @@ repositories:
     type: git
     url: git@github.com:gekidaniino001/iino.scenario.git
     version: iino/develop
+  iino.vehicle:
+    type: git
+    url: git@github.com:gekidaniino001/iino.vehicle.git
+    version: iino/develop
+
   sensor_component/external/hesai_pandar:
     type: git
     url: git@github.com:gekidaniino001/hesai_pandar.git
