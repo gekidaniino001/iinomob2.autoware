@@ -26,3 +26,6 @@ popd
 
 mkdir -p src/iino.scenario/data_bin
 cp -r ~/enkaku src/iino.scenario/data_bin/
+
+tool/lan_setup.py
+tool/ssd_setup.py
