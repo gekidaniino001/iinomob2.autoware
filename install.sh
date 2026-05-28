@@ -18,6 +18,13 @@ rosdep update
 
 rosdep install -y --from-paths src --ignore-src --rosdistro $ROS_DISTRO
 
+PKG="setuptools"
+VER_TGT="59.6.0"
+VER_NOW=$( pip show $PKG | grep Version | tr -d ' ' | cut -d : -f2 )
+if [ "$VER_NOW" != "$VER_TGT" ]; then
+  pip install $PKG==$VER_TGT >/dev/null
+fi
+
 colcon build --symlink-install --cmake-args -DCMAKE_BUILD_TYPE=Release
 
 pushd src/iino.universe/tool
