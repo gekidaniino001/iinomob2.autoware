@@ -25,9 +25,11 @@ if [ "$VER_NOW" != "$VER_TGT" ]; then
   pip install $PKG==$VER_TGT >/dev/null
 fi
 
-# for test
-cat ~/test_patch/d-univ2 | ( cd src/iino.universe ; patch -p1 )
+### for test
+## cat ~/test_patch/d-univ2 | ( cd src/iino.universe ; patch -p1 )
 
+## colcon build --symlink-install --cmake-args -DCMAKE_BUILD_TYPE=Release --parallel-works 4
+## colcon build --symlink-install --cmake-args -DCMAKE_BUILD_TYPE=Release --packages-select autoware_launch
 colcon build --symlink-install --cmake-args -DCMAKE_BUILD_TYPE=Release
 
 pushd src/iino.universe/tool
