@@ -1,0 +1,5 @@
+repositories:
+  external/lidarslam_ros2:
+    type: git
+    url: git@github.com:rsasaki0109/lidarslam_ros2.git
+    version: develop
