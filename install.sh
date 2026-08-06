@@ -2,8 +2,7 @@
 
 mkdir src
 vcs import src < autoware.repos
-vcs import src < iino.repos
-vcs import --recursive src < lidarslam.repos 
+vcs import --recursive src < iino.repos
 
 source /opt/ros/humble/setup.bash
 source src/iino.universe/boot_scripts/setup.bash
