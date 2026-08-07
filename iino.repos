@@ -32,4 +32,7 @@ repositories:
     type: git
     url: git@github.com:gekidaniino001/joystick_drivers.git
     version: iino/develop
-  
+  external/lidarslam_ros2:
+    type: git
+    url: git@github.com:rsasaki0109/lidarslam_ros2.git
+    version: 86fa9b610c07ccf4d2b0f10939e17c129d34b40a
